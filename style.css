@@ -1,0 +1,42 @@
+body {
+    background-color: grey;
+    font-family: cursive;
+    text-align: center
+}
+
+header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: dimgray;
+    text-align: center;
+    padding: 10px;
+}
+
+button{
+    background:    #444444;
+background:    -webkit-linear-gradient(#444444, #444444);
+background:    linear-gradient(#444444, #444444);
+border:        1px solid #000000;
+border-radius: 0px;
+padding:       8px 20px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal 400 21px/1 "cursive", cursive;
+text-align:    center;
+text-shadow:   1px 1px #000000;
+}
+
+table, th, td {
+   border: 1px solid black;
+   margin: 0px auto;
+   text-align: center;
+}
+
+ol{
+    text-align: left
+
+}
